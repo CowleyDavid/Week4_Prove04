@@ -10,6 +10,7 @@ public class Main {
         System.out.println("Hello Claudia!");
 
         System.out.println("Hello again");
+        System.out.println("A new line");
 
 
     }
